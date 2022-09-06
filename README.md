@@ -1,2 +1,2 @@
-# SQL_Exploratory_Data_Analysis
+# SQL_Data_Analysis_Project
 Analyzing dataset
